@@ -29,3 +29,6 @@ User Input
 [Verifier Agent] → checks results via LLM
    ↓
  Success or  Replan if needed
+
+```
+follow readME pdf for more details
